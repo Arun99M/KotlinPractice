@@ -13,7 +13,7 @@
         android:theme="@style/Theme.KotlinAndroidPractice">
 
         <activity
-            android:name=".MainActivity1stconstraintlayout"
+            android:name=".MainActivityimageview"
 
             android:exported="true">
 

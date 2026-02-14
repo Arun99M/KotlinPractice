@@ -5,20 +5,6 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivity (4)">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="MainActivity (5)">
-        <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-02-11T12:35:38.984652600Z">
-          <Target type="DEFAULT_BOOT">
-            <handle>
-              <DeviceId pluginId="PhysicalDevice" identifier="serial=q4w4dykjlfjnbmzt" />
-            </handle>
-          </Target>
-        </DropdownSelection>
-        <DialogSelection />
-      </SelectionState>
       <SelectionState runConfigName="MainActivity">
         <option name="selectionMode" value="DROPDOWN" />
         <DropdownSelection timestamp="2026-02-11T12:43:26.394789100Z">
@@ -33,10 +19,16 @@
       <SelectionState runConfigName="MainActivity1stconstraintlayout">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivitytextview">
+      <SelectionState runConfigName="MainActivitytextview (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivitytextview (1)">
+      <SelectionState runConfigName="MainActivityedittext">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="MainActivityedittext (1)">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="MainActivityimageview">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
