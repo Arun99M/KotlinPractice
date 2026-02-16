@@ -12,16 +12,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinAndroidPractice">
 
+        <!-- First Activity (Launcher Activity) -->
         <activity
-            android:name=".MainActivityimageview"
-
+            android:name=".MainActivityfirstsecondactivity"
             android:exported="true">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
+
+        <!-- Second Activity -->
+        <activity android:name=".SecondActivity" />
+
+        <!-- Third Activity -->
+        <activity android:name=".ThirdActivity" />
+
     </application>
 
 </manifest>
