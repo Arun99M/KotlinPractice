@@ -16,9 +16,6 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityPassingData (4)">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
       <SelectionState runConfigName="MainActivityPassingData (5)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
@@ -29,6 +26,9 @@
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="MainActivityPermissions (2)">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="MainActivityimplictintent">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

@@ -16,7 +16,7 @@
 
         <!-- Launcher Activity -->
         <activity
-            android:name=".MainActivityPermissions"
+            android:name=".MainActivityimplictintent"
             android:exported="true">
 
             <intent-filter>
