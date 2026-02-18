@@ -16,19 +16,19 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityedittext (1)">
+      <SelectionState runConfigName="MainActivityPassingData (4)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityimageview">
+      <SelectionState runConfigName="MainActivityPassingData (5)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityradiobtncheckbox">
+      <SelectionState runConfigName="MainActivityPermissions">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityfirstsecondactivity">
+      <SelectionState runConfigName="MainActivityPermissions (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityfirstsecondactivity (1)">
+      <SelectionState runConfigName="MainActivityPermissions (2)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
