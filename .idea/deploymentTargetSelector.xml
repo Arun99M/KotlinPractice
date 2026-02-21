@@ -16,19 +16,19 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityPassingData (5)">
+      <SelectionState runConfigName="MainActivitytoolbarmenus (2)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityPermissions">
+      <SelectionState runConfigName="MainActivitytoolbarmenus (3)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityPermissions (1)">
+      <SelectionState runConfigName="MainActivitySpinners">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityPermissions (2)">
+      <SelectionState runConfigName="MainActivityrecyclerview">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="MainActivityimplictintent">
+      <SelectionState runConfigName="MainActivityrecyclerview (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
