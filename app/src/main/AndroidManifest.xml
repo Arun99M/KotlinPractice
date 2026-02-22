@@ -16,7 +16,7 @@
 
         <!-- Only ONE declaration -->
         <activity
-            android:name=".ViewPagerActivity"
+            android:name=".MainActivityslidemenunavigation"
             android:exported="true">
 
             <intent-filter>
