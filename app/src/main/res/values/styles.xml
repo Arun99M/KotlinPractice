@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomButtonStyle">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/cardview_light_background</item>
+    </style>
+
+</resources>

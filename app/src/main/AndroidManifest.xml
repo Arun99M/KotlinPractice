@@ -16,7 +16,7 @@
 
         <!-- Only ONE declaration -->
         <activity
-            android:name=".MainActivityrecyclerview"
+            android:name=".ViewPagerActivity"
             android:exported="true">
 
             <intent-filter>
